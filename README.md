@@ -2,11 +2,13 @@ Project Description
 This project focuses on predicting customer churn for a telecom company using machine learning techniques.
 The objective is to identify customers who are likely to discontinue the service, enabling businesses to take proactive retention actions.
 The project follows an end-to-end data analytics and machine learning workflow, starting from data preprocessing and exploratory data analysis (EDA) to model building and performance evaluation.
+
 Business Objective
 •	Identify customers at high risk of churn
 •	Understand key factors influencing customer churn
 •	Help telecom companies reduce revenue loss through data-driven insights
 •	Demonstrate real-world application of predictive analytics
+
 Dataset
 •	Dataset: Telco Customer Churn Dataset
 •	Source: Publicly available telecom churn dataset
@@ -26,11 +28,13 @@ Analysis & Methodology
 •	Built and evaluated machine learning models:
 o	Decision Tree Classifier (or model used)
 •	Model evaluation using accuracy and cross-validation
+
 Key Insights
 •	Customers with month-to-month contracts show higher churn rates
 •	Short tenure customers are more likely to churn
 •	Payment method and contract type significantly impact churn behavior
 •	Class imbalance handling improved model performance
+
 Tools & Technologies Used
 •	Python
 •	Pandas
